@@ -83,7 +83,7 @@ Desktop version of ChatGPT. Ask questions about screenshots, voice conversation,
 
 | Field | Value |
 |---|---|
-| Stars | ★ 105k+ |
+| Stars | ★ 124k+ |
 | License | Apache-2.0 |
 
 **What it teaches**: OpenAI's terminal agent — it can help organize files, batch-process text, and run multi-step tasks from the command line; coding is only one use case. Same category as Claude Code, but uses OpenAI models.
@@ -94,7 +94,7 @@ Desktop version of ChatGPT. Ask questions about screenshots, voice conversation,
 
 | Field | Value |
 |---|---|
-| Stars | ★ 187k+ |
+| Stars | ★ 207k+ |
 | License | MIT |
 
 **What it teaches**: Open-source coding agent **not tied to any specific LLM provider** — use Claude, GPT, Gemini, or local Ollama, your choice. Community-maintained, fast iteration.

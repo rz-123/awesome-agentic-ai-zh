@@ -118,7 +118,7 @@
 
 | 栏位 | 内容 |
 |---|---|
-| Stars | ★ 430 |
+| Stars | ★ 480 |
 | License | MIT |
 | 推荐度 | ⭐⭐⭐ |
 
@@ -170,7 +170,7 @@
 
 | 栏位 | 内容 |
 |---|---|
-| Stars | ★ 5.9k+ |
+| Stars | ★ 7.6k+ |
 | License | MIT |
 | 推荐度 | ⭐⭐⭐⭐（agent-native 简报框架） |
 
@@ -314,7 +314,7 @@
 
 | 栏位 | 内容 |
 |---|---|
-| Stars | ★ 927 |
+| Stars | ★ 1k+ |
 | License | Apache-2.0 |
 | 推荐度 | ⭐⭐⭐⭐（**官方**） |
 
@@ -362,7 +362,7 @@
 
 | 栏位 | 内容 |
 |---|---|
-| Stars | ★ 101k+ |
+| Stars | ★ 116k+ |
 | License | Apache-2.0 |
 | 推荐度 | ⭐⭐⭐⭐⭐ |
 
@@ -386,7 +386,7 @@
 
 | 栏位 | 内容 |
 |---|---|
-| Stars | ★ 38k+ |
+| Stars | ★ 43k+ |
 | License | MIT |
 | 推荐度 | ⭐⭐⭐⭐⭐（code intelligence） |
 
@@ -474,7 +474,7 @@
 
 | 栏位 | 内容 |
 |---|---|
-| Stars | ★ 555 |
+| Stars | ★ 622 |
 | License | MIT |
 | 推荐度 | ⭐⭐⭐⭐（**Redis 官方**） |
 
@@ -514,7 +514,7 @@
 
 | 栏位 | 内容 |
 |---|---|
-| Stars | ★ 47k+ |
+| Stars | ★ 51k+ |
 | License | Apache-2.0 |
 | 推荐度 | ⭐⭐⭐⭐⭐（**Chrome 官方**） |
 
@@ -578,7 +578,7 @@
 
 | 栏位 | 内容 |
 |---|---|
-| Stars | ★ 2.2k+ |
+| Stars | ★ 2.4k+ |
 | License | MIT |
 | 推荐度 | ⭐⭐⭐⭐（替代版 Excalidraw） |
 
@@ -590,7 +590,7 @@
 
 | 栏位 | 内容 |
 |---|---|
-| Stars | ★ 57k+ |
+| Stars | ★ 67k+ |
 | License | Apache-2.0 |
 | 推荐度 | ⭐⭐⭐⭐⭐ |
 
@@ -782,7 +782,7 @@
 
 | 栏位 | 内容 |
 |---|---|
-| Stars | ★ 8.3k+ |
+| Stars | ★ 9.8k+ |
 | License | Apache-2.0 |
 | 推荐度 | ⭐⭐⭐⭐ |
 
@@ -873,7 +873,7 @@
 
 | 栏位 | 内容 |
 |---|---|
-| Stars | ★ 31 |
+| Stars | ★ 192 |
 | License | MIT |
 | 推荐度 | ⭐⭐⭐ |
 
@@ -895,7 +895,7 @@ npx -y jacobian mcp
 
 | 栏位 | 内容 |
 |---|---|
-| Stars | ★ 201 |
+| Stars | ★ 249 |
 | License | MIT |
 | 推荐度 | ⭐⭐⭐⭐⭐（研究流程一整套） |
 
@@ -907,7 +907,7 @@ npx -y jacobian mcp
 
 | 栏位 | 内容 |
 |---|---|
-| Stars | ★ 11 |
+| Stars | ★ 46 |
 | License | MIT |
 | 推荐度 | ⭐⭐⭐（窄但深） |
 
@@ -919,7 +919,7 @@ npx -y jacobian mcp
 
 | 栏位 | 内容 |
 |---|---|
-| Stars | ★ 45 |
+| Stars | ★ 53 |
 | License | MIT |
 | 推荐度 | ⭐⭐⭐⭐ |
 
@@ -931,7 +931,7 @@ npx -y jacobian mcp
 
 | 栏位 | 内容 |
 |---|---|
-| Stars | ★ 46 |
+| Stars | ★ 55 |
 | License | MIT |
 | 推荐度 | ⭐⭐⭐⭐ |
 
@@ -986,7 +986,7 @@ Claude 不擅长 token-heavy 机械式工作（成本高、context 容易爆）�
 
 | 栏位 | 内容 |
 |---|---|
-| Stars | ★ 22 |
+| Stars | ★ 26 |
 | License | MIT |
 | 推荐度 | ⭐⭐（experimental，当作 reference 看就好） |
 
@@ -1004,7 +1004,7 @@ Claude 不擅长 token-heavy 机械式工作（成本高、context 容易爆）�
 
 | 栏位 | 内容 |
 |---|---|
-| Stars | ★ 93k+ |
+| Stars | ★ 105k+ |
 | License | Apache-2.0 |
 | 推荐度 | ⭐⭐⭐ |
 

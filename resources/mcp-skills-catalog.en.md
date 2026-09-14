@@ -118,7 +118,7 @@
 
 | Field | Value |
 |---|---|
-| Stars | ★ 430 |
+| Stars | ★ 480 |
 | License | MIT |
 | Rating | ⭐⭐⭐ |
 
@@ -170,7 +170,7 @@
 
 | Field | Value |
 |---|---|
-| Stars | ★ 5.9k+ |
+| Stars | ★ 7.6k+ |
 | License | MIT |
 | Rating | ⭐⭐⭐⭐ (agent-native slide framework) |
 
@@ -314,7 +314,7 @@
 
 | Field | Value |
 |---|---|
-| Stars | ★ 927 |
+| Stars | ★ 1k+ |
 | License | Apache-2.0 |
 | Rating | ⭐⭐⭐⭐ (**official**) |
 
@@ -362,7 +362,7 @@
 
 | Field | Value |
 |---|---|
-| Stars | ★ 101k+ |
+| Stars | ★ 116k+ |
 | License | Apache-2.0 |
 | Rating | ⭐⭐⭐⭐⭐ |
 
@@ -386,7 +386,7 @@
 
 | Field | Value |
 |---|---|
-| Stars | ★ 38k+ |
+| Stars | ★ 43k+ |
 | License | MIT |
 | Rating | ⭐⭐⭐⭐⭐ (code intelligence) |
 
@@ -474,7 +474,7 @@
 
 | Field | Value |
 |---|---|
-| Stars | ★ 555 |
+| Stars | ★ 622 |
 | License | MIT |
 | Rating | ⭐⭐⭐⭐ (**Redis official**) |
 
@@ -514,7 +514,7 @@
 
 | Field | Value |
 |---|---|
-| Stars | ★ 47k+ |
+| Stars | ★ 51k+ |
 | License | Apache-2.0 |
 | Rating | ⭐⭐⭐⭐⭐ (**Chrome official**) |
 
@@ -578,7 +578,7 @@
 
 | Field | Value |
 |---|---|
-| Stars | ★ 2.2k+ |
+| Stars | ★ 2.4k+ |
 | License | MIT |
 | Rating | ⭐⭐⭐⭐ (alternative Excalidraw) |
 
@@ -590,7 +590,7 @@
 
 | Field | Value |
 |---|---|
-| Stars | ★ 57k+ |
+| Stars | ★ 67k+ |
 | License | Apache-2.0 |
 | Rating | ⭐⭐⭐⭐⭐ |
 
@@ -782,7 +782,7 @@
 
 | Field | Value |
 |---|---|
-| Stars | ★ 8.3k+ |
+| Stars | ★ 9.8k+ |
 | License | Apache-2.0 |
 | Rating | ⭐⭐⭐⭐ |
 
@@ -873,7 +873,7 @@
 
 | Field | Value |
 |---|---|
-| Stars | ★ 31 |
+| Stars | ★ 192 |
 | License | MIT |
 | Rating | ⭐⭐⭐ |
 
@@ -895,7 +895,7 @@ npx -y jacobian mcp
 
 | Field | Value |
 |---|---|
-| Stars | ★ 201 |
+| Stars | ★ 249 |
 | License | MIT |
 | Rating | ⭐⭐⭐⭐⭐ (full research workflow) |
 
@@ -907,7 +907,7 @@ npx -y jacobian mcp
 
 | Field | Value |
 |---|---|
-| Stars | ★ 11 |
+| Stars | ★ 46 |
 | License | MIT |
 | Rating | ⭐⭐⭐ (narrow but deep) |
 
@@ -919,7 +919,7 @@ npx -y jacobian mcp
 
 | Field | Value |
 |---|---|
-| Stars | ★ 45 |
+| Stars | ★ 53 |
 | License | MIT |
 | Rating | ⭐⭐⭐⭐ |
 
@@ -931,7 +931,7 @@ npx -y jacobian mcp
 
 | Field | Value |
 |---|---|
-| Stars | ★ 46 |
+| Stars | ★ 55 |
 | License | MIT |
 | Rating | ⭐⭐⭐⭐ |
 
@@ -986,7 +986,7 @@ Claude is bad at token-heavy mechanical work (cost, context blowout); Codex is b
 
 | Field | Value |
 |---|---|
-| Stars | ★ 22 |
+| Stars | ★ 26 |
 | License | MIT |
 | Rating | ⭐⭐ (experimental — treat as reference) |
 
@@ -1004,7 +1004,7 @@ Claude is bad at token-heavy mechanical work (cost, context blowout); Codex is b
 
 | Field | Value |
 |---|---|
-| Stars | ★ 93k+ |
+| Stars | ★ 105k+ |
 | License | Apache-2.0 |
 | Rating | ⭐⭐⭐ |
 
